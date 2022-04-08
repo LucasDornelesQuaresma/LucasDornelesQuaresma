@@ -1,4 +1,5 @@
-## Olá Lucas Dorneles aqui! 
+<img align="right" height="590em" src=""/>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Lucas Dorneles</h1>
 <div align="center">
   <a href="https://github.com/LucasDornelesQuaresma">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasDornelesQuaresma&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
